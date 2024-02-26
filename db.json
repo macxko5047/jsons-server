@@ -1,55 +1,58 @@
 {
-    "dataAdjust" : [
-        {
-          "workorder_group_id": "c84102b5-6cb1-4292-bfdc-0d49cff20100",
-          "pd_key_group": "G2402210002",
-          "wos": [
-            {
-              "woID": "24026232",
-              "wi_items": [
-                {
-                  "item_name": "20-G594RSY",
-                  "workorder_item_locs_id": "1aeeff56-2aee-42a9-b8a5-0e7ed2f1de4e",
-                  "due_date": "2024-02-29T00:00:00+00:00",
-                  "update_by": "tit1613"
-                }
-              ]
-            }
-          ]
-        },
-        {
-            "workorder_group_id": "c84102b5-6cb1-4292-bfdc-0d49cff20101",
-            "pd_key_group": "G2402210003",
-            "wos": [
+  "dataAdjust": {
+    "data": [
+      {
+        "workorder_group_id": "c84102b5-6cb1-4292-bfdc-0d49cff20100",
+        "pd_key_group": "G2402210002",
+        "wos": [
+          {
+            "woID": "24026232",
+            "wi_items": [
               {
-                "woID": "24026233",
-                "wi_items": [
-                  {
-                    "item_name": "20-G594RSY",
-                    "workorder_item_locs_id": "1aeeff56-2aee-42a9-b8a5-0e7ed2f1de5e",
-                    "due_date": "2024-02-29T00:00:00+00:00",
-                    "update_by": "tit1613"
-                  }
-                ]
+                "item_name": "20-G594RSY",
+                "workorder_item_locs_id": "1aeeff56-2aee-42a9-b8a5-0e7ed2f1de4e",
+                "due_date": "2024-02-29T00:00:00+00:00",
+                "update_by": "tit1613"
               }
             ]
-          },
+          }
+        ]
+      },
+      {
+        "workorder_group_id": "c84102b5-6cb1-4292-bfdc-0d49cff20101",
+        "pd_key_group": "G2402210003",
+        "wos": [
           {
-              "workorder_group_id": "c84102b5-6cb1-4292-bfdc-0d49cff20102",
-              "pd_key_group": "G2402210004",
-              "wos": [
-                {
-                  "woID": "24026234",
-                  "wi_items": [
-                    {
-                      "item_name": "20-G594RSY",
-                      "workorder_item_locs_id": "1aeeff56-2aee-42a9-b8a5-0e7ed2f1de6e",
-                      "due_date": "2024-02-29T00:00:00+00:00",
-                      "update_by": "tit1613"
-                    }
-                  ]
-                }
-              ]
-            }
-      ]
+            "woID": "24026233",
+            "wi_items": [
+              {
+                "item_name": "20-G594RSY",
+                "workorder_item_locs_id": "1aeeff56-2aee-42a9-b8a5-0e7ed2f1de5e",
+                "due_date": "2024-02-29T00:00:00+00:00",
+                "update_by": "tit1613"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "workorder_group_id": "c84102b5-6cb1-4292-bfdc-0d49cff20102",
+        "pd_key_group": "G2402210004",
+        "wos": [
+          {
+            "woID": "24026234",
+            "wi_items": [
+              {
+                "item_name": "20-G594RSY",
+                "workorder_item_locs_id": "1aeeff56-2aee-42a9-b8a5-0e7ed2f1de6e",
+                "due_date": "2024-02-29T00:00:00+00:00",
+                "update_by": "tit1613"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "total": "3"
+  }
 }
